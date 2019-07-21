@@ -1,7 +1,7 @@
 1 ' Developer tool
 2 ' 
 3 ' little Enter + big Enter = gives you quick access to a comfy dev mode 
-4 ' key 139,"mode 2:border 0:ink 0,0:ink 1,24:list"
+4 key 139,"mode 2:border 0:ink 0,0:ink 1,24:list"
 5 ' 
 10 '  
 20 ' Ancient Adventure
