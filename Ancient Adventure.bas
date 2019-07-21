@@ -25,8 +25,8 @@
 340 '
 400 ' PLAYER ACTIONS
 410 INPUT"ACTION";a$
-420 IF a$="A" THEN energyen=energyen-attack:GOTO 500
-430 IF a$="D" THEN energy=energy+defense:GOTO 500
+420 IF a$="A" or a$="a" THEN energyen=energyen-attack:GOTO 500
+430 IF a$="D" or a$="d" THEN energy=energy+defense:GOTO 500
 440 GOTO 400
 450 '
 500 ' ENEMY ACTIONS
