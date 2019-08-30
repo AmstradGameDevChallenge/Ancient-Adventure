@@ -1,2 +1,2 @@
 # Ancient-Adventure
-Mi aventura con el AGC en Locomotive BASIC
+ RPG game in C and Locomotive BASIC 
