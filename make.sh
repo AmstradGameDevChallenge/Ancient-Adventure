@@ -1,5 +1,5 @@
 # Creates a DSK directly from the BASIC source code
-
+ 
 #!/bin/bash
 IDSK=$CPCT_PATH/tools/iDSK-0.13/bin/iDSK
 SOURCE=rpg.bas
